@@ -59,18 +59,18 @@ During the analysis phase:
 
 ---
 
-## Project Reports
-The complete reports for this project can be found here:
 
-Splunk Enterprise and Forwarder Setup Guide
-(contains the full installation steps with screenshots)
+## **Project Report**
 
-[Splunk Simulation Analysis Report] ()
+The complete report can be found here:
+
+[Splunk Enterprise and Forwarder Setup Guide](https://github.com/ola-space/Security-Onion-and-Splunk-dashboards/blob/main/Splunk%20Enterprise%20and%20Forwarder%20Setup%20Guide.pdf)   
+[Splunk Simulation Analysis Report](https://github.com/ola-space/Security-Onion-and-Splunk-dashboards/blob/main/Splunk%20Simulation%20Analysis%20Report.pdf)
 
 
 ---
 
-Author
 
-Olanipekun Babatunde
+## Author
+**Olanipekun Babatunde**  
 Cybersecurity Analyst
