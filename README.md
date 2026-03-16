@@ -15,3 +15,18 @@ This lab demonstrates:
 ## Analysis
 - Monitored Sysmon EventCodes: 1102
 - Detected log cleared
+
+
+## **Project Report**
+
+The complete report can be found here:
+
+[AWS Cloud Security Assessment Report]()   
+
+
+---
+
+
+## Author
+**Olanipekun Babatunde**  
+Cybersecurity Analyst
