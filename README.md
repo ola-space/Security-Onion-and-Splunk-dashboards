@@ -4,8 +4,8 @@
 
 
 ## Overview   
-This project demonstrates the implementation of a Security Information and Event Management (SIEM) environment using Splunk Enterprise and Splunk Universal Forwarder.   
-Logs from a Windows Server virtual machine were collected using the Splunk Universal Forwarder and forwarded to the Splunk Enterprise instance for indexing and analysis.   
+This project demonstrates the implementation of a Security Information and Event Management (SIEM) environment using Splunk Enterprise and Splunk Universal Forwarder. Logs from a Windows Server virtual machine were collected using the Splunk Universal Forwarder and forwarded to the Splunk Enterprise instance for indexing and analysis.   
+  
 The objective of this simulation is to demonstrate how security analysts collect, monitor, and analyze logs to detect suspicious activities in enterprise environments.   
 
 A detailed setup guide and analysis report are included in this repository.
@@ -22,6 +22,7 @@ A detailed setup guide and analysis report are included in this repository.
 ## Lab Summary
 
 The SIEM lab environment was configured to collect Windows system logs from a virtual machine using Splunk Universal Forwarder and send them to Splunk Enterprise for analysis.   
+
 Logs were monitored to validate that events generated on the Windows server were successfully forwarded and indexed in Splunk.   
 Security events such as log clearing were simulated to confirm that the logging pipeline was functioning correctly.
 
